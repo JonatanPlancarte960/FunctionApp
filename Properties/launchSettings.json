@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Function_App_HTTP": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7284",
+      "launchBrowser": false
+    }
+  }
+}
